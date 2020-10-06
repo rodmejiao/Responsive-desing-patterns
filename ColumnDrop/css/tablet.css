@@ -1,0 +1,9 @@
+.c1,.c2,.c3{
+    width: 33%;
+    min-height: 150px;
+}
+
+.c3{
+    width: 34%;
+    min-height: 150px;    
+}
