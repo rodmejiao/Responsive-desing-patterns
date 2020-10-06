@@ -1,0 +1,16 @@
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+.c5{
+    order: 1;
+}
+
+.c1{
+    order:3;
+}
+
+.c2{
+    order:2;
+}

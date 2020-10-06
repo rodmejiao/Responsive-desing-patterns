@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+.container{
+    display: flex;
+    flex-flow: row wrap;
+
+}
+
+
+
+.c1{
+    background-color: red;
+}
+ .c2{
+    background-color: green;
+}   
+.c3{
+    background-color: blue;
+}
+.c4{
+    background-color: yellow;
+}
+.c5{
+    order: 3;
+    background-color: purple;
+}
+
+.c1,.c2,.c3,.c4,.c5{
+    box-sizing: border-box;
+    min-height: 15rem;
+    width: 100%;
+
+}
+
